@@ -6,10 +6,10 @@ My Kaggle Link: https://www.kaggle.com/code/eleanorla/netflix-movies-tvshows
 About this Dataset: Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix, along with details such as - cast, directors, ratings, release year, duration, etc.
 
 # Interesting Task Ideas
-Understanding what content is available in different countries
-Identifying similar content by matching text-based features
-Network analysis of Actors / Directors and find interesting insights
-Does Netflix has more focus on TV Shows than movies in recent years.
+- Understanding what content is available in different countries
+- Identifying similar content by matching text-based features
+- Network analysis of Actors / Directors and find interesting insights
+- Does Netflix has more focus on TV Shows than movies in recent years.
 
 ![{A799FD9B-95BE-4E93-99A1-95B021B458CC}](https://github.com/user-attachments/assets/1a4fce08-5a32-4231-a478-b6b00a16dd4b)
 
